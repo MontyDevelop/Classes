@@ -1,0 +1,93 @@
+Every project done:
+
+Project: machine learning prediction (house price prediction):
+
+what i learnt: i learned how to use python libraries like pandas for and handling the data and making it readable, matplotlib to visualize the data into a graph and scikit-learn for applying machine learning to the project. I learnt how to train the model and make predictions based on the given data also learning how to split the data into X and y, using fit function to train the model and predict for new values.
+
+Unique about this project: i visualized the relationship between house size and price using a scatter plot to clearly show the trend. I also used values that wasn't in the dataset to test the model on how it would predict the price.
+
+
+Project: AI clothing suggestion chatbot:
+
+what i learnt: i learned how to use DecisionTreeClassifier from scikit-learn to make predictions based on multiple inputs the user makes. I also learnt about using LabelEncoder to convert text so that the model could process them. Also, i understood how to train a decision tree model on a small dataset then use it in a chatbot to give suggestions about clothes.
+
+Unique about this project: using machine learning with user interaction building an interactive chatbot that asks user questions then gives a predicted suggestion of clothes to the user.
+
+
+
+Project: Digit printing and prediction:
+
+what i learnt: i learnt how to work with load_digits data set from scikit which contains images of digits, which i learnt to visualize using matplotlib. I also learnt how to use K-Nearest Neighbors algorithm to classify images based on their pixel patterns. I practiced splitting the dataset into training the model and also testing the model as well as seeing its accuracy.
+
+Unique about this project: i visualized the training sample and the models predictions. I displayed example images from the test sample along with the prediction the model gave to see whether the model was correct or not in its predictions.
+
+
+Project: Face detection spy camera:
+
+what i learnt: i learnt how to use OpenCV to work with real time video from a webcam. I also learnt how to use Haar Cascade Classifier to detect faces and how to draw rectangles around the detected faces in the video. I also learned how to take a picture when faces are detected as well as add a delay when pictures are being taken.
+
+unique about this project: it worked like a spy camera taking photos every 5 seconds everytime a face was detected saving it with a unqiue filename containing the date and time too.
+
+
+Project: Emotion detector AI
+
+what i learnt: In this project i learnt how to combine GUI with AI to detect emotions of sentences using countvectorization to convert text into numerical features, and multinomial naive bayes to classify emotions based on the words in the sentences. 
+
+unique about this project: instead of displaying the results in the console i was able to display it on a colorful GUI using tkinter having labels buttons and pop up warnings for empty input.
+
+
+Project: smart AI rock paper and scissor game
+
+what i learnt: i learnt how to use dictionaries to define game rules and keep track of player choices. I practiced using lists and loops for repeated gameplay and implemented a basic AI prediction that adapts and learns for every move the player makes.
+
+unique about this project: instead of choosing moves randomly the AI analyses the players move history and tries to predict a counter move based on the players most common move making the game more challenging and fun
+
+
+Project: text to speech button app
+
+what i learnt: i learned how to use pyttsx3 library to convert written text into spoken words. I also combined with tkinter so that users can input their texts and using a click of a button be able to hear aloud what they have written
+
+unique about this project: combining tkinter and pyttsx3 and making a simple GUI that is able to take in text input and read it out loud using a button
+
+
+project: Speech to text and text to speech
+
+what i learnt: i learned how to combine speech to text and text to speech in one program using tkinter so that if users want to use text to speech they can enter the text and use a button to turn it into speech also if users want to use speech to text they can click a button and speak so that whatever they say gets converted into text and gets displayed
+
+unique about this project: you could use speech to text and text to speech on the same GUI making it easy to use
+
+
+project: treasure hunt moving dot game
+
+what i learnt: i learnt how to make a grid based game interface using tkinter labels arranged in rows and columns i also learnt how to update the position of an object on the grid
+
+unique about this project: it has an automatic movement system the dot moved randomly on its own in every direction making the game more interesting
+
+
+project: digit display
+
+what i learnt: i learned how to work with load_digits dataset from scikit-learn which contains handwritten digits. I created a loop where the user can type a number and the number that was inputted is displayed using matplotlib i also trained the model to recognize the handwritten digits
+
+unique about this project: its interactive since users can input a number and actually see the handwritten digit learning how to use the dataset
+
+
+project: AI midi note generator
+
+what i learnt: i learned how to use midiutil library and program it to create music by generating a sequence of notes and saving them as a .mid file. I learned how to use random to generate a random melody every time the program is run. I also learnt how to integrate it with tkinter allowing users to generate music by clicking a button
+
+unique about this project: i combined a simple GUI with the midi note generator using two buttons, one button to generate the music and the second button to play the music it also creates a .mid file of the music generated which the users can save and listen too.
+
+project: AI pong game
+
+what i learnt: i learnt how to use pygame to create a interactive 2D game with real time movement and collision detection. I learnt how to create objects like the paddles and ball and how to control them using player input.
+
+unique about this project: there is an AI opponent instead of the user controlling both paddles their is an AI opponenet which automatically moves the second paddle making the game more fun and exciting for the user.
+
+project: AI self driving car
+
+what i learnt: i learned how to use turtle to create an interactive simulation with movement and collision detection. I learnt how to make the car take in user input and move based on what the user has input while detecting and responding to obstacles automatically and learnt how to use while loops to move the car continuously without stopping.
+
+unique about this project: it has both manual control and automatic control as users can control the car using their keyboard arrows input while the car automatically moves when an obstacle is close and also moves when it gets too close to the screen borders.
+
+
+
